@@ -3,13 +3,13 @@
 { "name": "Blitar", "leaderName": "Santoso", "adjective": ["...", "j"], "startBias": ["ayam", ".."], "preferredVictoryType": "Diplomatic", "startIntroPart1": "fh", "declaringWar": "get rekd!", "attacked": "THES IS SPARt... i mean Hack Land", "defeated": "oh well, i guess ill make some more QAnon...", "introduction": "how much code does it make to make you?", "neutralHello": "yo", "hateHello": "oh..you, tell me what you want", "tradeRequest": "It appears that you have a gigabyte of interest", "cities": ["Kota Blitar", "ft Market", "Cree Hack aj", "Leo Play Card aiau", "Mod Droid ana", "A1", "An1", "Android1", "Happy Mod", "Android Apk Mods", "Game Guardian", "just...google?"], "outerColor": [0,62,179], "innerColor": [0,255,0], "uniqueName": "The way of the Hack Lords", "uniques": [ "Enables construction of Spaceship parts", "Roads connect tiles across rivers", "[+1000]% [Gold] [in all cities]", "[+1000]% [Food] [in all cities]", "[+46]% [Food] Ayam 46% Dan [Gold] [in all cities] ", "[+1000]% [Science] [in all cities]", "[+1000]% [Faith] [in all cities]", "[+1000]% [Culture] [in all cities]", "[+1000]% [Production] [in all cities]", "Enables conversion of city production to [Gold]", "\"Borrows\" city names from other civilizations in the game", "[-100]% Strength <when not at war>", "[+100]% Strength <when defending>" ] }
 
 {
-		"name": "Kabupaten Blitar",
+	        "name": "Kabupaten Blitar",
 		"leaderName": "Rini Syarifah",
 		"adjective": ["weeb"],
-  "startBias": ["Coast"],
+                "startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
 		"startIntroPart1": "fgggggggg",
-  "startIntroPart2": "44444"
+                "startIntroPart2": "44444"
 		"declaringWar": "Sus!",
 		"attacked": "....",
 		"defeated": "oh well, i guess ill make some more QAnon...",
